@@ -1,0 +1,4 @@
+name = "FiniteAbelian"
+uuid = "7a3f1ead-202e-4ff1-a424-06ff39c6d81f"
+authors = ["jnha <32179923+jnha@users.noreply.github.com>"]
+version = "0.1.0"
